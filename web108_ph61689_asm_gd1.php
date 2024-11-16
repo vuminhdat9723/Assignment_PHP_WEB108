@@ -28,7 +28,7 @@ $i = 0;
 </head>
 
 <body class="p-10">
-    <a href="form_gd1.html" class="border border-2 p-2 rounded-lg gradient-bg"><button class="font-bold text-white">Thêm sinh viên</button></a>
+    <a href="form_gd1.php" class="border border-2 p-2 rounded-lg gradient-bg"><button class="font-bold text-white">Thêm sinh viên</button></a>
 
     <h1 class="text-4xl font-bold text-center my-10 gradient-bg text-white p-5 rounded-lg">Bảng sinh viên học môn lập trình PHP cơ bản</h1>
 
